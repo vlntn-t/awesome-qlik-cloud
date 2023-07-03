@@ -20,28 +20,28 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 
 ### Alerts
 
-- [Qlik Alerts - Multi Step Conditions](https://www.youtube.com/watch?v=k01fDyVFXq8)
+- [Multi Step Conditions](https://www.youtube.com/watch?v=k01fDyVFXq8)
 
 ### Notes
 
-- [Qlik Notes - Working With Notes In Qlik Cloud](https://www.youtube.com/watch?v=3B9IlcQShgM)
+- [Working With Notes In Qlik Cloud](https://www.youtube.com/watch?v=3B9IlcQShgM)
 
 ### AutoML
 
-- [Qlik AutoML - What You Should Know](https://www.youtube.com/watch?v=4TCGyiWfqT4)
-- [Qlik AutoML - Basic Walkthrough Creating a Qlik Sense Predictive Analytics App](https://www.youtube.com/watch?v=vwAt3aH4Hec)
+- [What You Should Know](https://www.youtube.com/watch?v=4TCGyiWfqT4)
+- [Basic Walkthrough Creating a Qlik Sense Predictive Analytics App](https://www.youtube.com/watch?v=vwAt3aH4Hec)
  
 ### App Automation
 
-- [Qlik App Automation - Getting Started](https://www.youtube.com/watch?v=5ycYndC_PXs)
+- [Getting Started](https://www.youtube.com/watch?v=5ycYndC_PXs)
 
 ### Data Integration
 
-- [Qlik Cloud Data Integration - Getting Started](https://www.youtube.com/watch?v=Orj3NYJ3IUA)
+- [Getting Started](https://www.youtube.com/watch?v=Orj3NYJ3IUA)
 
 ## Qlik CLI
 
-- [Qlik CLI - Getting Started](https://qlik.dev/toolkits/qlik-cli/)
+- [Getting Started](https://qlik.dev/toolkits/qlik-cli/)
 
 ## Version Control
 
