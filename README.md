@@ -5,6 +5,7 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 
 - [Qlik Cloud](#qlik-cloud)
   - [Qlik Alerts](#qlik-alerts)
+  - [Qlik Notes](#qlik-notes)
   - [Qlik AutoML](#qlik-automl)
   - [Qlik App Automation](#qlik-app-automation)
   - [Qlik Cloud Data Integration](#qlik-cloud-data-integration)
@@ -16,6 +17,10 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 ### Qlik Alerts
 
 - [Qlik Alerts - Multi Step Conditions](https://www.youtube.com/watch?v=k01fDyVFXq8)
+
+### Qlik Notes
+
+- [Qlik Notes - Working With Notes In Qlik Cloud](https://www.youtube.com/watch?v=3B9IlcQShgM)
 
 ### Qlik AutoML
 
