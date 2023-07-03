@@ -7,35 +7,35 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 ## Contents
 
 - [Qlik Cloud](#qlik-cloud)
-  - [Qlik Alerts](#qlik-alerts)
-  - [Qlik Notes](#qlik-notes)
-  - [Qlik AutoML](#qlik-automl)
-  - [Qlik App Automation](#qlik-app-automation)
-  - [Qlik Cloud Data Integration](#qlik-cloud-data-integration)
+  - [Alerts](#qlik-alerts)
+  - [Notes](#qlik-notes)
+  - [AutoML](#qlik-automl)
+  - [App Automation](#qlik-app-automation)
+  - [Data Integration](#qlik-cloud-data-integration)
 - [Qlik CLI](#qlik-cli)
-- [Qlik Version Control](#qlik-version-control)
+- [Version Control](#qlik-version-control)
 
 
 ## Qlik Cloud
 
-### Qlik Alerts
+### Alerts
 
 - [Qlik Alerts - Multi Step Conditions](https://www.youtube.com/watch?v=k01fDyVFXq8)
 
-### Qlik Notes
+### Notes
 
 - [Qlik Notes - Working With Notes In Qlik Cloud](https://www.youtube.com/watch?v=3B9IlcQShgM)
 
-### Qlik AutoML
+### AutoML
 
 - [Qlik AutoML - What You Should Know](https://www.youtube.com/watch?v=4TCGyiWfqT4)
 - [Qlik AutoML - Basic Walkthrough Creating a Qlik Sense Predictive Analytics App](https://www.youtube.com/watch?v=vwAt3aH4Hec)
  
-### Qlik App Automation
+### App Automation
 
 - [Qlik App Automation - Getting Started](https://www.youtube.com/watch?v=5ycYndC_PXs)
 
-### Qlik Cloud Data Integration
+### Data Integration
 
 - [Qlik Cloud Data Integration - Getting Started](https://www.youtube.com/watch?v=Orj3NYJ3IUA)
 
@@ -43,6 +43,6 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 
 - [Qlik CLI - Getting Started](https://qlik.dev/toolkits/qlik-cli/)
 
-## Qlik Version Control
+## Version Control
 
 - [Version Control With BIForm](https://github.com/vlntn-t/biform)
