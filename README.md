@@ -1,2 +1,2 @@
-# awesome-qlik-cloud
+# Awesome Qlik Cloud
 A curated list of awesome Qlik Cloud resources
