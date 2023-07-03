@@ -1,4 +1,7 @@
 # Awesome Qlik Cloud
+
+<img src="https://github.com/vlntn-t/awesome-qlik-cloud/assets/49613199/e8764987-5fe7-4055-a69d-e0e7a0b1f8f9" alt="Qlik Cloud" width="200"/>
+
 A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2Fs) resources
 
 ## Contents
