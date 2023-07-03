@@ -10,6 +10,7 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
   - [Qlik App Automation](#qlik-app-automation)
   - [Qlik Cloud Data Integration](#qlik-cloud-data-integration)
 - [Qlik CLI](#qlik-cli)
+- [Qlik Version Control](#qlik-version-control)
 
 
 ## Qlik Cloud
@@ -35,6 +36,10 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 
 - [Qlik Cloud Data Integration - Getting Started](https://www.youtube.com/watch?v=Orj3NYJ3IUA)
 
-### Qlik CLI
+## Qlik CLI
 
-- [Qlik CLI - Getting Started](https://qlik.dev/toolkits/qlik-cli/) 
+- [Qlik CLI - Getting Started](https://qlik.dev/toolkits/qlik-cli/)
+
+## Qlik Version Control
+
+- [Version Control With BIForm](https://github.com/vlntn-t/biform)
