@@ -18,6 +18,8 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 
 ## Qlik Cloud
 
+- [Do More with Qlik - Tips & Tricks Edition](https://www.youtube.com/watch?v=MFCGG3vg_vg&list=PLW1uf5CQ_gSqF5bcmbBrk1q7Q4-h899V1)
+
 ### Alerts
 
 - [Multi Step Conditions](https://www.youtube.com/watch?v=k01fDyVFXq8)
