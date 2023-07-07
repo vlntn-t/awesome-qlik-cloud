@@ -10,6 +10,7 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
   - [Alerts](#qlik-alerts)
   - [Notes](#qlik-notes)
   - [AutoML](#qlik-automl)
+  - [Section Access](#qlik-section-access)
   - [App Automation](#qlik-app-automation)
   - [Data Integration](#qlik-cloud-data-integration)
 - [Qlik CLI](#qlik-cli)
@@ -32,6 +33,10 @@ A curated list of awesome [Qlik Cloud](https://www.youtube.com/watch?v=q7Cx-kKn2
 
 - [What You Should Know](https://www.youtube.com/watch?v=4TCGyiWfqT4)
 - [Basic Walkthrough Creating a Qlik Sense Predictive Analytics App](https://www.youtube.com/watch?v=vwAt3aH4Hec)
+
+### Section Access
+
+- [Section Access in the Qlik Cloud Platform](https://www.youtube.com/watch?v=0VoJPiRrqKA )
  
 ### App Automation
 
